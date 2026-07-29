@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a Computer Science (AI) master's student at USC, focused on building **LLM-powered systems** — retrieval-augmented generation, agentic workflows, and applied NLP. I enjoy taking research ideas all the way to production, from parsing messy real-world documents to shipping interactive, end-to-end tools.
+I'm a Computer Science (AI) master's student at USC, focused on building **LLM-powered systems** — retrieval-augmented generation, agentic workflows, and applied AI Agents. I enjoy taking research ideas all the way to production, from parsing messy real-world documents to shipping interactive, end-to-end tools.
 
 ## 🔭 Currently
 
@@ -49,5 +49,6 @@ I'm a Computer Science (AI) master's student at USC, focused on building **LLM-p
 ## 📫 Connect
 
 - 💼 LinkedIn: [yunfei-wang-ai](https://linkedin.com/in/yunfei-wang-ai)
-- 📧 Email: yunfeiwa@usc.edu
-- 📍 Los Angeles, CA
+- 📧 Email: yunfeiwa@usc.edu; yunfeiwang803@gmail.com
+- 🌐 Personal Website: [Felix's website](https://alalpaca.github.io/en/)
+- 📍 Los Angeles, CA, US | Shanghai, China
