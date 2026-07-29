@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yunfei-wang-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+   <a href="https://alalpaca.github.io/en/"><img src="https://img.shields.io/badge/Website-4C6EF5?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="mailto:yunfeiwa@usc.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://arxiv.org/abs/2505.19879"><img src="https://img.shields.io/badge/arXiv-2505.19879-B31B1B?style=flat&logo=arxiv&logoColor=white" alt="arXiv"></a>
 </p>
