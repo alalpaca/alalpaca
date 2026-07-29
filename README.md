@@ -46,13 +46,6 @@ I'm a Computer Science (AI) master's student at USC, focused on building **LLM-p
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat&logo=gradio&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alalpaca&show_icons=true&theme=default&hide_border=true" alt="Yunfei's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alalpaca&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
 ## 📫 Connect
 
 - 💼 LinkedIn: [yunfei-wang-ai](https://linkedin.com/in/yunfei-wang-ai)
